@@ -1,0 +1,27 @@
+.main-form{
+  display: grid;
+  align-items: center;
+  place-items: center;
+}
+.nav-button {
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 15px;
+  background-color: aqua;
+}
+
+.input-field {
+  padding:10px;
+  border-radius:15px;
+  width:390px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+.submit-button{
+  margin-left: 150px;
+  padding: 12px;
+  border-radius: 12px;
+  background-color: blue;
+  color:white
+}
